@@ -17,7 +17,7 @@ All responses will have the form
 
 **Roast**
 
-- `200 OK
+- `200 OK`
 
 ```json
 [
